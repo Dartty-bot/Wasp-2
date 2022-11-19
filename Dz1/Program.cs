@@ -6,8 +6,7 @@ namespace Dz1
     { 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
-            Console.WriteLine("wolrd");
+            int x = Convert.ToInt32(Console.ReadLine());
         }
     }
 
